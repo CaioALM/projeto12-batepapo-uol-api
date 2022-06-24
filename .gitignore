@@ -1,4 +1,4 @@
-node_modules
-.env
-assets
-index.html
+**/node_modules
+**/assets
+**.env
+**/index.html
